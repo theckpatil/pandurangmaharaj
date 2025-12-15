@@ -8,7 +8,7 @@
 .footer-content {
   position: relative;
   height: 150px;
-  margin-bottom: 5PX;
+  margin-bottom: 15PX;  /* ADDED 5px */
 }
 
 .footer-section {
